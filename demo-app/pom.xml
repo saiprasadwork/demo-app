@@ -58,6 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<directory>${project.basedir}/target1</directory>
 	</build>
 
 </project>
